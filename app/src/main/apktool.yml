@@ -1,0 +1,50 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: MELONssjj.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+- assets/UnityServicesProjectConfiguration.json
+- assets/bin/Data/RuntimeInitializeOnLoads.json
+- assets/bin/Data/ScriptingAssemblies.json
+- assets/bin/Data/sharedassets0.resource
+- assets/bin/Data/sharedassets1.resource
+- assets/bin/Data/sharedassets4.resource
+- assets/bin/Data/sharedassets5.resource
+- assets/bin/Data/unity_app_guid
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '22'
+  targetSdkVersion: '32'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  billing.properties: '8'
+  play-services-ads-base.properties: '8'
+  play-services-ads-identifier.properties: '8'
+  play-services-ads-lite.properties: '8'
+  play-services-ads.properties: '8'
+  play-services-appset.properties: '8'
+  play-services-auth-api-phone.properties: '8'
+  play-services-auth-base.properties: '8'
+  play-services-auth.properties: '8'
+  play-services-base.properties: '8'
+  play-services-basement.properties: '8'
+  play-services-measurement-base.properties: '8'
+  play-services-measurement-sdk-api.properties: '8'
+  play-services-tasks.properties: '8'
+  user-messaging-platform.properties: '8'
+  stamp-cert-sha256: '8'
+  okhttp3/internal/publicsuffix/NOTICE: '8'
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: '0'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: '@version@'
+versionInfo:
+  versionCode: '33'
+  versionName: '10'

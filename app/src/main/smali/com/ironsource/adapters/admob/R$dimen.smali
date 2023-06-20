@@ -1,0 +1,91 @@
+.class public final Lcom/ironsource/adapters/admob/R$dimen;
+.super Ljava/lang/Object;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/ironsource/adapters/admob/R;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x19
+    name = "dimen"
+.end annotation
+
+
+# static fields
+.field public static final ad_mob_ad_indicator_height:I = 0x7f060002
+
+.field public static final ad_mob_ad_indicator_text_size:I = 0x7f060003
+
+.field public static final ad_mob_ad_indicator_width:I = 0x7f060004
+
+.field public static final ad_mob_default_margin:I = 0x7f060005
+
+.field public static final ad_mob_medium_cta_button_height:I = 0x7f060006
+
+.field public static final ad_mob_no_margin:I = 0x7f060007
+
+.field public static final ad_mob_small_cta_button_height:I = 0x7f060008
+
+.field public static final ad_mob_text_size_large:I = 0x7f060009
+
+.field public static final ad_mob_text_size_small:I = 0x7f06000a
+
+.field public static final browser_actions_context_menu_max_width:I = 0x7f060036
+
+.field public static final browser_actions_context_menu_min_padding:I = 0x7f060037
+
+.field public static final compat_button_inset_horizontal_material:I = 0x7f060038
+
+.field public static final compat_button_inset_vertical_material:I = 0x7f060039
+
+.field public static final compat_button_padding_horizontal_material:I = 0x7f06003a
+
+.field public static final compat_button_padding_vertical_material:I = 0x7f06003b
+
+.field public static final compat_control_corner_material:I = 0x7f06003c
+
+.field public static final compat_notification_large_icon_max_height:I = 0x7f06003d
+
+.field public static final compat_notification_large_icon_max_width:I = 0x7f06003e
+
+.field public static final notification_action_icon_size:I = 0x7f060051
+
+.field public static final notification_action_text_size:I = 0x7f060052
+
+.field public static final notification_big_circle_margin:I = 0x7f060053
+
+.field public static final notification_content_margin_start:I = 0x7f060054
+
+.field public static final notification_large_icon_height:I = 0x7f060055
+
+.field public static final notification_large_icon_width:I = 0x7f060056
+
+.field public static final notification_main_column_padding_top:I = 0x7f060057
+
+.field public static final notification_media_narrow_margin:I = 0x7f060058
+
+.field public static final notification_right_icon_size:I = 0x7f060059
+
+.field public static final notification_right_side_padding_top:I = 0x7f06005a
+
+.field public static final notification_small_icon_background_padding:I = 0x7f06005b
+
+.field public static final notification_small_icon_size_as_large:I = 0x7f06005c
+
+.field public static final notification_subtext_size:I = 0x7f06005d
+
+.field public static final notification_top_pad:I = 0x7f06005e
+
+.field public static final notification_top_pad_large_text:I = 0x7f06005f
+
+
+# direct methods
+.method private constructor <init>()V
+    .locals 0
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
